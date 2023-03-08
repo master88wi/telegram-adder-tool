@@ -105,7 +105,7 @@ for a in accounts:
 print(info+' Sessions created!')
 time.sleep(2)
 print(f'{plus}{lg} Enter the exact username of the public group{w}[Without @]')
-g = input(f'{INPUT}{lg} Username[Eg: Techmedies_Hub]: {r}')
+g = input(f'{INPUT}{lg} Username[Eg: thegeniuscodes]: {r}')
 group = 't.me/' + str(g)
 #print('\n')
 print(f'{info}{lg} Joining from all accounts...{rs}')
