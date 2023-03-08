@@ -41,7 +41,7 @@ def banner():
     f = pyfiglet.Figlet(font='slant')
     logo = f.renderText('Telegram')
     print(random.choice(colors) + logo + rs)
-    print(f'{r}   Version: {w}1.1 {r}| Author: {w}@GENIUS CODES{rs}')
+    print(f'{r}   Version: {w}FREE {r}| Author: {w}@techiebrain{rs}')
 
 
 def clr():
