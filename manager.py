@@ -20,7 +20,7 @@ def banner():
     f = pyfiglet.Figlet(font='slant')
     banner = f.renderText('Telegram')
     print(f'{random.choice(colors)}{banner}{n}')
-    print(r+'  Version: FREE | Author: @techiebrain'+n+'\n')
+    print(r+'  Version: FREE | Author: @techiegenius'+n+'\n')
 
 
 def clr():
