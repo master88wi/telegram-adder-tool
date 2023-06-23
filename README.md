@@ -8,7 +8,7 @@ MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 
 A FREE TELEGRAM ADDER TOOL
 
-FOR PRIVATE DEALS > https://t.me/+r4q42DHGePA5ZTJk
+FOR MASS DM > https://t.me/+r4q42DHGePA5ZTJk
 
 # FEATURES
 > you can add multiple accounts
