@@ -1,7 +1,7 @@
 # telegram-adder-tool
 FREE TOOL 
 
-IF YOU NEED ME FOR GIGS
+IF YOU NEED THE PRO VERSION
 
 MESSAGE ME > https://t.me/+r4q42DHGePA5ZTJk
 
