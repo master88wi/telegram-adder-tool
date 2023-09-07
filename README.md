@@ -59,3 +59,4 @@ how to add multiple users to my telegram channel how to add multiple members to 
 telegram marketing tools
 telegram mass adding tool
 telegram auto invite
+telegram bulk adding tool
